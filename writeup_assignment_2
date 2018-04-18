@@ -1,0 +1,6 @@
+In this assignment, I explored data regarding credit information of individuals. 
+Carried out logistic regression, and exploratory data analysis to ascertain a link between the variable, SeriousDlqin2yrs,
+  i.e. 'Person experienced 90 days past due delinquency or worse', and other variables in the dataset. 
+  
+Using accuracy as a metric for evaluation, found an approximately 84% accuracy using the 10 best features, 
+  compared to an 83.9% baseline.
